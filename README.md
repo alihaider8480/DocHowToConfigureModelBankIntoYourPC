@@ -1,6 +1,6 @@
 # DocHowToConfigureModelBankIntoYourPC
 
-        How To download model Bank into your computer or laptop when ever we download model bank prefer it to download in D drive and all thinks you past temenos thinks  customer folder those we created and one folder we should create with name Temenos cause we make installation guide with these folders path name 
+How To download model Bank into your computer or laptop when ever we download model bank prefer it to download in D drive and all thinks you past temenos thinks  customer folder those we created and one folder we should create with name Temenos cause we make installation guide with these folders path name 
         
 1: first read installtion guide and follow the step of that file.
 

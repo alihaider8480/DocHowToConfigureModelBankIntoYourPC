@@ -11,4 +11,7 @@ in Temenos thinks folder we past model bank there but we do extract this model b
 ![image](https://user-images.githubusercontent.com/40827670/225991291-d024ec80-004e-4261-8a62-a18e3cd6ed4d.png)
 ![image](https://user-images.githubusercontent.com/40827670/225991374-5437266a-e59d-47e3-b03a-1545e09fc87d.png)
 
+![image](https://user-images.githubusercontent.com/40827670/225992623-b091eb61-2a56-4271-9a87-29b7a31d9e4e.png)
+
+this is db extraction here MB22.bak when you installed sql then we should to extract this db there
 

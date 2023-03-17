@@ -18,4 +18,4 @@ this is db extraction here MB22.bak when you installed sql then we should to ext
 
 ![image](https://user-images.githubusercontent.com/40827670/225992962-d17a6b74-091b-4991-9f59-003023158465.png)
 
-![Uploading image.png…]()
+here AS.7z is jboss and below R22 transact UI is bat agent
